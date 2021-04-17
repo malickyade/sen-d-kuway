@@ -1,0 +1,63 @@
+*
+{
+ margin:0;
+ padding:0;
+}
+.container
+{
+  position: relative;
+}
+{
+    color:brown;
+    text-align: center;
+}
+a
+{
+  display: inline-block;
+  background: linear-gradient(yellow,blue,red);
+  padding: 15px;
+  text-decoration: none;
+  color:white;
+  font-size: 20px;
+  position: relative;
+  top: 40px;
+  margin-left: 9px;
+}
+a:hover
+{
+  background:black;
+}
+menu{
+    word-spacing: 5cm;
+    background: linear-gradient(red,yellow,blue);
+    height:150px;
+    width: auto;
+    /* <figure>
+<img src="image1.jpeg" alt="Les habitations Le Domaine corporation Mainbourg      <figcaption></figcaption>
+        
+      <img src="image2.jpeg" alt="Les habitation de luxe">      <img src="image3.jpeg" alt="une chambre exceptionelle">
+    <img src="image4.jpg" alt="Unité d'habitations(cité radieuse)">
+    <img src="image5.jpeg" alt="Assurance habitation pas cher">
+<img src="image6.jpeg" alt="Assurance multirisque habitation">*/
+}
+h3
+{
+ font-weight: bolder;
+ text-shadow: 1px 6px 1px orange;
+ text-align: center;
+ font-size: 45px;
+}
+.div1 img 
+{
+  height: 5cm;
+  width: 5cm;
+  padding-left: 0.8cm;
+}
+.div1
+{
+    background:linear-gradient(green,orange,yellow)
+}
+div figure 
+{
+    float: left;
+}
